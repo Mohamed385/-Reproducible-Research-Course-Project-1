@@ -1,4 +1,4 @@
-# -Reproducible-Research-Course-Project-1
+# Reproducible-Research-Course-Project-1
 
 ## Code for reading in the dataset and/or processing the data
 ```
