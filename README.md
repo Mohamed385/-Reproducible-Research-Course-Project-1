@@ -1,6 +1,6 @@
 # -Reproducible-Research-Course-Project-1
 
-##Step 1 ##Code for reading in the dataset and/or processing the data
+## Step 1  ## Code for reading in the dataset and/or processing the data
 
 activity<-read.csv("activity.csv")
 
