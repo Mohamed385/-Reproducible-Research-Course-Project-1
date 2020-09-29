@@ -5,7 +5,7 @@
 activity<-read.csv("activity.csv")
 
 Exploring the basics of this data
-
+'''
 dim(activity)
 names(activity)
 head(activity)
@@ -16,3 +16,4 @@ sum(is.na(activity$steps))/dim(activity)[[1]]
 library(lubridate)
 activity$date<-ymd(activity$date)
 length(unique(activity$date))
+'''
